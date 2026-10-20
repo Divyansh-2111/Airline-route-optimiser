@@ -1,0 +1,51 @@
+code,name,city,country,lat,lon
+MAA,Chennai International,Chennai,India,12.99,80.18
+DEL,Indira Gandhi International,Delhi,India,28.56,77.1
+BOM,Chhatrapati Shivaji Maharaj Intl,Mumbai,India,19.09,72.87
+BLR,Kempegowda International,Bengaluru,India,13.2,77.71
+HYD,Rajiv Gandhi International,Hyderabad,India,17.24,78.43
+CCU,Netaji Subhas Chandra Bose Intl,Kolkata,India,22.65,88.45
+COK,Cochin International,Kochi,India,10.15,76.4
+GOI,Dabolim Airport,Goa,India,15.38,73.83
+AMD,Sardar Vallabhbhai Patel Intl,Ahmedabad,India,23.07,72.63
+PNQ,Pune Airport,Pune,India,18.58,73.92
+DXB,Dubai International,Dubai,UAE,25.25,55.36
+DOH,Hamad International,Doha,Qatar,25.27,51.61
+AUH,Zayed International,Abu Dhabi,UAE,24.43,54.65
+MCT,Muscat International,Muscat,Oman,23.59,58.28
+SIN,Changi Airport,Singapore,Singapore,1.36,103.99
+KUL,Kuala Lumpur International,Kuala Lumpur,Malaysia,2.75,101.71
+BKK,Suvarnabhumi Airport,Bangkok,Thailand,13.69,100.75
+HKG,Hong Kong International,Hong Kong,Hong Kong,22.31,113.91
+NRT,Narita International,Tokyo,Japan,35.77,140.39
+ICN,Incheon International,Seoul,South Korea,37.46,126.44
+PVG,Pudong International,Shanghai,China,31.14,121.81
+PEK,Beijing Capital International,Beijing,China,40.08,116.58
+CGK,Soekarno-Hatta International,Jakarta,Indonesia,-6.13,106.66
+CMB,Bandaranaike International,Colombo,Sri Lanka,7.18,79.88
+LHR,Heathrow Airport,London,UK,51.47,-0.45
+CDG,Charles de Gaulle,Paris,France,49.01,2.55
+FRA,Frankfurt Airport,Frankfurt,Germany,50.03,8.57
+AMS,Schiphol Airport,Amsterdam,Netherlands,52.31,4.76
+IST,Istanbul Airport,Istanbul,Turkey,41.26,28.74
+MAD,Adolfo Suarez Madrid-Barajas,Madrid,Spain,40.49,-3.57
+FCO,Leonardo da Vinci-Fiumicino,Rome,Italy,41.8,12.25
+ZRH,Zurich Airport,Zurich,Switzerland,47.46,8.55
+LIS,Humberto Delgado Airport,Lisbon,Portugal,38.78,-9.14
+DME,Domodedovo International,Moscow,Russia,55.41,37.91
+JFK,John F. Kennedy Intl,New York,USA,40.64,-73.78
+LAX,Los Angeles International,Los Angeles,USA,33.94,-118.41
+ORD,O'Hare International,Chicago,USA,41.98,-87.9
+SFO,San Francisco International,San Francisco,USA,37.62,-122.38
+ATL,Hartsfield-Jackson Atlanta Intl,Atlanta,USA,33.64,-84.43
+MIA,Miami International,Miami,USA,25.79,-80.29
+DFW,Dallas/Fort Worth International,Dallas,USA,32.9,-97.04
+SEA,Seattle-Tacoma International,Seattle,USA,47.45,-122.31
+YYZ,Toronto Pearson International,Toronto,Canada,43.68,-79.63
+MEX,Benito Juarez International,Mexico City,Mexico,19.44,-99.07
+GRU,Guarulhos International,Sao Paulo,Brazil,-23.43,-46.47
+SYD,Sydney Kingsford Smith,Sydney,Australia,-33.94,151.18
+MEL,Melbourne Airport,Melbourne,Australia,-37.67,144.84
+JNB,O.R. Tambo International,Johannesburg,South Africa,-26.14,28.25
+CAI,Cairo International,Cairo,Egypt,30.12,31.41
+NBO,Jomo Kenyatta International,Nairobi,Kenya,-1.32,36.93

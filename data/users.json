@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "U001",
+    "userId": "U001",
+    "name": "Aarav Mehta",
+    "email": "aarav.mehta@example.com",
+    "passwordHash": "b801990d06d6bd66fdc5d6a9533a0386677452719ed38c3af32863d010d27e12"
+  },
+  {
+    "_id": "U002",
+    "userId": "U002",
+    "name": "Diya Nair",
+    "email": "diya.nair@example.com",
+    "passwordHash": "867a9db2ca5f3f7bfeca1c8b235d1f0335caef089ca395d0f69176f412e5ae7a"
+  },
+  {
+    "_id": "U003",
+    "userId": "U003",
+    "name": "Rohan Iyer",
+    "email": "rohan.iyer@example.com",
+    "passwordHash": "d51dcf67c6a847eff69fdef7377a1cd7ef795ab6d56bdcfd877f6cbb3ac9bffc"
+  },
+  {
+    "_id": "U004",
+    "userId": "U004",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "passwordHash": "5ac86df9762d3f7138aeaab5d53ac013186ae608a97649427aa4c7d5c9dad1f1"
+  },
+  {
+    "_id": "U005",
+    "userId": "U005",
+    "name": "Karthik Subramanian",
+    "email": "karthik.subramanian@example.com",
+    "passwordHash": "1994edb54d5dc8d154268a2042ea96d6d977ab92b769a61a5286ebcfcd491640"
+  },
+  {
+    "_id": "U006",
+    "userId": "U006",
+    "name": "Meera Pillai",
+    "email": "meera.pillai@example.com",
+    "passwordHash": "804d6cde70c1304720928925452c1be5fcd926d1423cdd3f8ff417b9a5f1cbd5"
+  },
+  {
+    "_id": "U007",
+    "userId": "U007",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "passwordHash": "c737f68d089a51293a90aec0c7c3eb430d280ce0f1b715a1498ef366514bc281"
+  },
+  {
+    "_id": "U008",
+    "userId": "U008",
+    "name": "Isha Kapoor",
+    "email": "isha.kapoor@example.com",
+    "passwordHash": "76f301b72851f6df3883646f26d699499f299a7545b037af535bd73e97df0e6c"
+  },
+  {
+    "_id": "U009",
+    "userId": "U009",
+    "name": "Arjun Reddy",
+    "email": "arjun.reddy@example.com",
+    "passwordHash": "d53fdd4edfcebee28e401cf984c5f8736a27fdbb0e3d027a13c3b4bd1a6f381e"
+  },
+  {
+    "_id": "U010",
+    "userId": "U010",
+    "name": "Sneha Das",
+    "email": "sneha.das@example.com",
+    "passwordHash": "2a5cd34d131067847f629f957d200e7921681efb2f656d1134f354966cd05708"
+  },
+  {
+    "_id": "U011",
+    "userId": "U011",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@example.com",
+    "passwordHash": "a2a8563e2d7bb31df90bdf2d1ce1779f8b9872cd82dc2824583488b7fd913042"
+  },
+  {
+    "_id": "U012",
+    "userId": "U012",
+    "name": "Priya Menon",
+    "email": "priya.menon@example.com",
+    "passwordHash": "1fbacf2fdfe74d3c827a23659a637fde5ff53970394bcd1ade30c24b1e21cc7b"
+  },
+  {
+    "_id": "U013",
+    "userId": "U013",
+    "name": "Aditya Joshi",
+    "email": "aditya.joshi@example.com",
+    "passwordHash": "1a4c0816bfaca500443a887978623a908bd5c97bba414f7b39c2acce2f9baf65"
+  },
+  {
+    "_id": "U014",
+    "userId": "U014",
+    "name": "Kavya Krishnan",
+    "email": "kavya.krishnan@example.com",
+    "passwordHash": "43af78394d78769b8bc7e9cbf74be6e06e6322ac3859b7bb875ac291a421ab83"
+  },
+  {
+    "_id": "U015",
+    "userId": "U015",
+    "name": "Siddharth Jain",
+    "email": "siddharth.jain@example.com",
+    "passwordHash": "0395d5ed5cbbf39cbbec20f2dedc12174e21744b0fa4df8b9189666f439fd60e"
+  },
+  {
+    "_id": "U016",
+    "userId": "U016",
+    "name": "Neha Bansal",
+    "email": "neha.bansal@example.com",
+    "passwordHash": "218b738fbc2d582c4e74f51a4800e537df6c9850a0a23efe4a05d61dfc1f76c8"
+  },
+  {
+    "_id": "U017",
+    "userId": "U017",
+    "name": "Manoj Kumar",
+    "email": "manoj.kumar@example.com",
+    "passwordHash": "9933c6fa1eac4ad847b3c2684f2eb8e68216e6bacd2c1e0e5b3373a327723261"
+  },
+  {
+    "_id": "U018",
+    "userId": "U018",
+    "name": "Pooja Shah",
+    "email": "pooja.shah@example.com",
+    "passwordHash": "7153429b5c559dd68ff0a10edfe5caa763c5ebc578960f954993b3aea5365851"
+  },
+  {
+    "_id": "U019",
+    "userId": "U019",
+    "name": "Harish Babu",
+    "email": "harish.babu@example.com",
+    "passwordHash": "bfd2f3ec64fed03aca5499420b849560ca9c0edf7a83559853d3ff3a5f3a5e73"
+  },
+  {
+    "_id": "U020",
+    "userId": "U020",
+    "name": "Lakshmi Narayan",
+    "email": "lakshmi.narayan@example.com",
+    "passwordHash": "e2e6c51a844e0816d7702bda71a5a98c53265ce8400cb6dc77660df9f8fd36e4"
+  },
+  {
+    "_id": "U021",
+    "userId": "U021",
+    "name": "Imran Khan",
+    "email": "imran.khan@example.com",
+    "passwordHash": "ba34eef7b4addb5f524a45f6d882904edf37588431c7e13ecf9bcf9b1b33fc36"
+  },
+  {
+    "_id": "U022",
+    "userId": "U022",
+    "name": "Fatima Sheikh",
+    "email": "fatima.sheikh@example.com",
+    "passwordHash": "94baacafb6a17babbd6e1741a09a993025196d1b25050c44dbaa28994dd86b14"
+  },
+  {
+    "_id": "U023",
+    "userId": "U023",
+    "name": "John Mathew",
+    "email": "john.mathew@example.com",
+    "passwordHash": "34eef54f6ccbbae854e85e36a18d5bdcf557a2d39b5a4ae7633f8ca0c542dec9"
+  },
+  {
+    "_id": "U024",
+    "userId": "U024",
+    "name": "Sara Thomas",
+    "email": "sara.thomas@example.com",
+    "passwordHash": "bea8220200c1f0838204998f3be11863493c1e27afe1c2952fc280bf02942ea2"
+  },
+  {
+    "_id": "U025",
+    "userId": "U025",
+    "name": "Tarun Gupta",
+    "email": "tarun.gupta@example.com",
+    "passwordHash": "7b4f76df858a78ceaa32e084ae465c603ec27e5c9381b25a90e4b9bcd73405a2"
+  }
+]

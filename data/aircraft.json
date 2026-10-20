@@ -1,0 +1,450 @@
+[
+  {
+    "_id": "AI-N1",
+    "aircraftId": "AI-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "AI"
+  },
+  {
+    "_id": "AI-W1",
+    "aircraftId": "AI-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "AI"
+  },
+  {
+    "_id": "AI-N2",
+    "aircraftId": "AI-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "AI"
+  },
+  {
+    "_id": "AI-W2",
+    "aircraftId": "AI-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "AI"
+  },
+  {
+    "_id": "6E-N1",
+    "aircraftId": "6E-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "6E"
+  },
+  {
+    "_id": "6E-W1",
+    "aircraftId": "6E-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "6E"
+  },
+  {
+    "_id": "6E-N2",
+    "aircraftId": "6E-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "6E"
+  },
+  {
+    "_id": "6E-W2",
+    "aircraftId": "6E-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "6E"
+  },
+  {
+    "_id": "EK-N1",
+    "aircraftId": "EK-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "EK"
+  },
+  {
+    "_id": "EK-W1",
+    "aircraftId": "EK-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "EK"
+  },
+  {
+    "_id": "EK-N2",
+    "aircraftId": "EK-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "EK"
+  },
+  {
+    "_id": "EK-W2",
+    "aircraftId": "EK-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "EK"
+  },
+  {
+    "_id": "EY-N1",
+    "aircraftId": "EY-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "EY"
+  },
+  {
+    "_id": "EY-W1",
+    "aircraftId": "EY-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "EY"
+  },
+  {
+    "_id": "EY-N2",
+    "aircraftId": "EY-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "EY"
+  },
+  {
+    "_id": "EY-W2",
+    "aircraftId": "EY-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "EY"
+  },
+  {
+    "_id": "QR-N1",
+    "aircraftId": "QR-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "QR"
+  },
+  {
+    "_id": "QR-W1",
+    "aircraftId": "QR-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "QR"
+  },
+  {
+    "_id": "QR-N2",
+    "aircraftId": "QR-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "QR"
+  },
+  {
+    "_id": "QR-W2",
+    "aircraftId": "QR-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "QR"
+  },
+  {
+    "_id": "SQ-N1",
+    "aircraftId": "SQ-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "SQ"
+  },
+  {
+    "_id": "SQ-W1",
+    "aircraftId": "SQ-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "SQ"
+  },
+  {
+    "_id": "SQ-N2",
+    "aircraftId": "SQ-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "SQ"
+  },
+  {
+    "_id": "SQ-W2",
+    "aircraftId": "SQ-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "SQ"
+  },
+  {
+    "_id": "CX-N1",
+    "aircraftId": "CX-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "CX"
+  },
+  {
+    "_id": "CX-W1",
+    "aircraftId": "CX-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "CX"
+  },
+  {
+    "_id": "CX-N2",
+    "aircraftId": "CX-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "CX"
+  },
+  {
+    "_id": "CX-W2",
+    "aircraftId": "CX-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "CX"
+  },
+  {
+    "_id": "JL-N1",
+    "aircraftId": "JL-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "JL"
+  },
+  {
+    "_id": "JL-W1",
+    "aircraftId": "JL-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "JL"
+  },
+  {
+    "_id": "JL-N2",
+    "aircraftId": "JL-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "JL"
+  },
+  {
+    "_id": "JL-W2",
+    "aircraftId": "JL-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "JL"
+  },
+  {
+    "_id": "BA-N1",
+    "aircraftId": "BA-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "BA"
+  },
+  {
+    "_id": "BA-W1",
+    "aircraftId": "BA-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "BA"
+  },
+  {
+    "_id": "BA-N2",
+    "aircraftId": "BA-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "BA"
+  },
+  {
+    "_id": "BA-W2",
+    "aircraftId": "BA-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "BA"
+  },
+  {
+    "_id": "LH-N1",
+    "aircraftId": "LH-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "LH"
+  },
+  {
+    "_id": "LH-W1",
+    "aircraftId": "LH-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "LH"
+  },
+  {
+    "_id": "LH-N2",
+    "aircraftId": "LH-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "LH"
+  },
+  {
+    "_id": "LH-W2",
+    "aircraftId": "LH-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "LH"
+  },
+  {
+    "_id": "AF-N1",
+    "aircraftId": "AF-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "AF"
+  },
+  {
+    "_id": "AF-W1",
+    "aircraftId": "AF-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "AF"
+  },
+  {
+    "_id": "AF-N2",
+    "aircraftId": "AF-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "AF"
+  },
+  {
+    "_id": "AF-W2",
+    "aircraftId": "AF-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "AF"
+  },
+  {
+    "_id": "TK-N1",
+    "aircraftId": "TK-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "TK"
+  },
+  {
+    "_id": "TK-W1",
+    "aircraftId": "TK-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "TK"
+  },
+  {
+    "_id": "TK-N2",
+    "aircraftId": "TK-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "TK"
+  },
+  {
+    "_id": "TK-W2",
+    "aircraftId": "TK-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "TK"
+  },
+  {
+    "_id": "AA-N1",
+    "aircraftId": "AA-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "AA"
+  },
+  {
+    "_id": "AA-W1",
+    "aircraftId": "AA-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "AA"
+  },
+  {
+    "_id": "AA-N2",
+    "aircraftId": "AA-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "AA"
+  },
+  {
+    "_id": "AA-W2",
+    "aircraftId": "AA-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "AA"
+  },
+  {
+    "_id": "UA-N1",
+    "aircraftId": "UA-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "UA"
+  },
+  {
+    "_id": "UA-W1",
+    "aircraftId": "UA-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "UA"
+  },
+  {
+    "_id": "UA-N2",
+    "aircraftId": "UA-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "UA"
+  },
+  {
+    "_id": "UA-W2",
+    "aircraftId": "UA-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "UA"
+  },
+  {
+    "_id": "DL-N1",
+    "aircraftId": "DL-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "DL"
+  },
+  {
+    "_id": "DL-W1",
+    "aircraftId": "DL-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "DL"
+  },
+  {
+    "_id": "DL-N2",
+    "aircraftId": "DL-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "DL"
+  },
+  {
+    "_id": "DL-W2",
+    "aircraftId": "DL-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "DL"
+  },
+  {
+    "_id": "QF-N1",
+    "aircraftId": "QF-N1",
+    "model": "Airbus A320-200",
+    "totalSeats": 180,
+    "airlineCode": "QF"
+  },
+  {
+    "_id": "QF-W1",
+    "aircraftId": "QF-W1",
+    "model": "Boeing 777-300ER",
+    "totalSeats": 354,
+    "airlineCode": "QF"
+  },
+  {
+    "_id": "QF-N2",
+    "aircraftId": "QF-N2",
+    "model": "Boeing 737-800",
+    "totalSeats": 189,
+    "airlineCode": "QF"
+  },
+  {
+    "_id": "QF-W2",
+    "aircraftId": "QF-W2",
+    "model": "Boeing 787-9",
+    "totalSeats": 296,
+    "airlineCode": "QF"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "AI",
+    "airlineCode": "AI",
+    "name": "Air India",
+    "country": "India"
+  },
+  {
+    "_id": "6E",
+    "airlineCode": "6E",
+    "name": "IndiGo",
+    "country": "India"
+  },
+  {
+    "_id": "EK",
+    "airlineCode": "EK",
+    "name": "Emirates",
+    "country": "UAE"
+  },
+  {
+    "_id": "EY",
+    "airlineCode": "EY",
+    "name": "Etihad Airways",
+    "country": "UAE"
+  },
+  {
+    "_id": "QR",
+    "airlineCode": "QR",
+    "name": "Qatar Airways",
+    "country": "Qatar"
+  },
+  {
+    "_id": "SQ",
+    "airlineCode": "SQ",
+    "name": "Singapore Airlines",
+    "country": "Singapore"
+  },
+  {
+    "_id": "CX",
+    "airlineCode": "CX",
+    "name": "Cathay Pacific",
+    "country": "Hong Kong"
+  },
+  {
+    "_id": "JL",
+    "airlineCode": "JL",
+    "name": "Japan Airlines",
+    "country": "Japan"
+  },
+  {
+    "_id": "BA",
+    "airlineCode": "BA",
+    "name": "British Airways",
+    "country": "UK"
+  },
+  {
+    "_id": "LH",
+    "airlineCode": "LH",
+    "name": "Lufthansa",
+    "country": "Germany"
+  },
+  {
+    "_id": "AF",
+    "airlineCode": "AF",
+    "name": "Air France",
+    "country": "France"
+  },
+  {
+    "_id": "TK",
+    "airlineCode": "TK",
+    "name": "Turkish Airlines",
+    "country": "Turkey"
+  },
+  {
+    "_id": "AA",
+    "airlineCode": "AA",
+    "name": "American Airlines",
+    "country": "USA"
+  },
+  {
+    "_id": "UA",
+    "airlineCode": "UA",
+    "name": "United Airlines",
+    "country": "USA"
+  },
+  {
+    "_id": "DL",
+    "airlineCode": "DL",
+    "name": "Delta Air Lines",
+    "country": "USA"
+  },
+  {
+    "_id": "QF",
+    "airlineCode": "QF",
+    "name": "Qantas",
+    "country": "Australia"
+  }
+]

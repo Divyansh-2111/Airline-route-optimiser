@@ -1,0 +1,4336 @@
+[
+  {
+    "_id": "ST0001",
+    "statusId": "ST0001",
+    "flightId": "AI101_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T10:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0002",
+    "statusId": "ST0002",
+    "flightId": "AI100_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T07:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0003",
+    "statusId": "ST0003",
+    "flightId": "AI101_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T13:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0004",
+    "statusId": "ST0004",
+    "flightId": "6E107_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T18:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0005",
+    "statusId": "ST0005",
+    "flightId": "6E109_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T17:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0006",
+    "statusId": "ST0006",
+    "flightId": "6E108_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T00:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0007",
+    "statusId": "ST0007",
+    "flightId": "6E110_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0008",
+    "statusId": "ST0008",
+    "flightId": "6E113_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T14:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0009",
+    "statusId": "ST0009",
+    "flightId": "6E114_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T04:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0010",
+    "statusId": "ST0010",
+    "flightId": "6E115_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T17:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0011",
+    "statusId": "ST0011",
+    "flightId": "AI123_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T09:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0012",
+    "statusId": "ST0012",
+    "flightId": "6E129_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T12:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0013",
+    "statusId": "ST0013",
+    "flightId": "6E131_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T13:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0014",
+    "statusId": "ST0014",
+    "flightId": "6E133_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T15:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0015",
+    "statusId": "ST0015",
+    "flightId": "6E132_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T02:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0016",
+    "statusId": "ST0016",
+    "flightId": "6E133_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T14:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0017",
+    "statusId": "ST0017",
+    "flightId": "6E135_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T15:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0018",
+    "statusId": "ST0018",
+    "flightId": "6E135_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T13:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0019",
+    "statusId": "ST0019",
+    "flightId": "AI136_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T00:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0020",
+    "statusId": "ST0020",
+    "flightId": "AI136_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T05:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0021",
+    "statusId": "ST0021",
+    "flightId": "AI137_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T14:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0022",
+    "statusId": "ST0022",
+    "flightId": "AI139_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T18:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0023",
+    "statusId": "ST0023",
+    "flightId": "AI139_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T14:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0024",
+    "statusId": "ST0024",
+    "flightId": "6E141_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0025",
+    "statusId": "ST0025",
+    "flightId": "6E141_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T17:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0026",
+    "statusId": "ST0026",
+    "flightId": "6E141_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-03T13:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0027",
+    "statusId": "ST0027",
+    "flightId": "6E146_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T00:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0028",
+    "statusId": "ST0028",
+    "flightId": "6E147_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T14:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0029",
+    "statusId": "ST0029",
+    "flightId": "6E148_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T06:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0030",
+    "statusId": "ST0030",
+    "flightId": "6E149_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T11:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0031",
+    "statusId": "ST0031",
+    "flightId": "6E151_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T14:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0032",
+    "statusId": "ST0032",
+    "flightId": "6E152_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T21:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0033",
+    "statusId": "ST0033",
+    "flightId": "6E153_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T09:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0034",
+    "statusId": "ST0034",
+    "flightId": "AI157_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T19:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0035",
+    "statusId": "ST0035",
+    "flightId": "6E161_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T15:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0036",
+    "statusId": "ST0036",
+    "flightId": "6E161_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T19:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0037",
+    "statusId": "ST0037",
+    "flightId": "6E162_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T01:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0038",
+    "statusId": "ST0038",
+    "flightId": "6E165_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T17:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0039",
+    "statusId": "ST0039",
+    "flightId": "6E166_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T00:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0040",
+    "statusId": "ST0040",
+    "flightId": "6E170_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T04:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0041",
+    "statusId": "ST0041",
+    "flightId": "6E171_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T15:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0042",
+    "statusId": "ST0042",
+    "flightId": "6E172_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T03:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0043",
+    "statusId": "ST0043",
+    "flightId": "6E173_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T13:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0044",
+    "statusId": "ST0044",
+    "flightId": "6E172_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-03T06:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0045",
+    "statusId": "ST0045",
+    "flightId": "6E177_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T19:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0046",
+    "statusId": "ST0046",
+    "flightId": "6E178_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-03T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0047",
+    "statusId": "ST0047",
+    "flightId": "6E179_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-03T12:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0048",
+    "statusId": "ST0048",
+    "flightId": "6E183_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T13:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0049",
+    "statusId": "ST0049",
+    "flightId": "6E183_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T19:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0050",
+    "statusId": "ST0050",
+    "flightId": "AI186_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T23:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0051",
+    "statusId": "ST0051",
+    "flightId": "AI189_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T12:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0052",
+    "statusId": "ST0052",
+    "flightId": "AI188_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0053",
+    "statusId": "ST0053",
+    "flightId": "AI189_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T18:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0054",
+    "statusId": "ST0054",
+    "flightId": "EK192_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0055",
+    "statusId": "ST0055",
+    "flightId": "EK193_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T12:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0056",
+    "statusId": "ST0056",
+    "flightId": "EK195_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T18:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0057",
+    "statusId": "ST0057",
+    "flightId": "SQ197_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T16:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0058",
+    "statusId": "ST0058",
+    "flightId": "SQ197_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T16:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0059",
+    "statusId": "ST0059",
+    "flightId": "SQ199_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T14:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0060",
+    "statusId": "ST0060",
+    "flightId": "AI200_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T23:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0061",
+    "statusId": "ST0061",
+    "flightId": "AI204_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T07:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0062",
+    "statusId": "ST0062",
+    "flightId": "AI207_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T16:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0063",
+    "statusId": "ST0063",
+    "flightId": "AI206_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T22:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0064",
+    "statusId": "ST0064",
+    "flightId": "EK214_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T04:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0065",
+    "statusId": "ST0065",
+    "flightId": "BA218_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T04:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0066",
+    "statusId": "ST0066",
+    "flightId": "BA219_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T19:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0067",
+    "statusId": "ST0067",
+    "flightId": "BA218_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T07:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0068",
+    "statusId": "ST0068",
+    "flightId": "LH225_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T15:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0069",
+    "statusId": "ST0069",
+    "flightId": "LH226_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T21:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0070",
+    "statusId": "ST0070",
+    "flightId": "LH227_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T09:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0071",
+    "statusId": "ST0071",
+    "flightId": "SQ228_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T02:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0072",
+    "statusId": "ST0072",
+    "flightId": "SQ229_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T12:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0073",
+    "statusId": "ST0073",
+    "flightId": "SQ230_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T03:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0074",
+    "statusId": "ST0074",
+    "flightId": "SQ231_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T09:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0075",
+    "statusId": "ST0075",
+    "flightId": "AI232_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T23:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0076",
+    "statusId": "ST0076",
+    "flightId": "AI234_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0077",
+    "statusId": "ST0077",
+    "flightId": "QR239_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T17:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0078",
+    "statusId": "ST0078",
+    "flightId": "QR238_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T22:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0079",
+    "statusId": "ST0079",
+    "flightId": "AI249_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T11:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0080",
+    "statusId": "ST0080",
+    "flightId": "AI248_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T03:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0081",
+    "statusId": "ST0081",
+    "flightId": "AI252_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T05:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0082",
+    "statusId": "ST0082",
+    "flightId": "AI252_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T03:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0083",
+    "statusId": "ST0083",
+    "flightId": "AI254_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T06:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0084",
+    "statusId": "ST0084",
+    "flightId": "EK256_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T23:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0085",
+    "statusId": "ST0085",
+    "flightId": "EK258_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-03T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0086",
+    "statusId": "ST0086",
+    "flightId": "BA260_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T04:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0087",
+    "statusId": "ST0087",
+    "flightId": "BA261_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T18:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0088",
+    "statusId": "ST0088",
+    "flightId": "BA260_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T02:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0089",
+    "statusId": "ST0089",
+    "flightId": "BA262_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T21:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0090",
+    "statusId": "ST0090",
+    "flightId": "BA263_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T18:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0091",
+    "statusId": "ST0091",
+    "flightId": "SQ264_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-03T03:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0092",
+    "statusId": "ST0092",
+    "flightId": "QR271_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T15:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0093",
+    "statusId": "ST0093",
+    "flightId": "EY273_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T13:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0094",
+    "statusId": "ST0094",
+    "flightId": "EY273_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T11:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0095",
+    "statusId": "ST0095",
+    "flightId": "EY275_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T16:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0096",
+    "statusId": "ST0096",
+    "flightId": "EY275_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T12:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0097",
+    "statusId": "ST0097",
+    "flightId": "AI280_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-10-31T22:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0098",
+    "statusId": "ST0098",
+    "flightId": "AI282_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-03T04:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0099",
+    "statusId": "ST0099",
+    "flightId": "AI283_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-03T11:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0100",
+    "statusId": "ST0100",
+    "flightId": "EK284_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T23:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0101",
+    "statusId": "ST0101",
+    "flightId": "EK285_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T18:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0102",
+    "statusId": "ST0102",
+    "flightId": "EK286_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T07:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0103",
+    "statusId": "ST0103",
+    "flightId": "EK287_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T12:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0104",
+    "statusId": "ST0104",
+    "flightId": "SQ288_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T05:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0105",
+    "statusId": "ST0105",
+    "flightId": "SQ288_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0106",
+    "statusId": "ST0106",
+    "flightId": "SQ291_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T12:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0107",
+    "statusId": "ST0107",
+    "flightId": "LH294_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0108",
+    "statusId": "ST0108",
+    "flightId": "LH294_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T07:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0109",
+    "statusId": "ST0109",
+    "flightId": "EK297_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T09:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0110",
+    "statusId": "ST0110",
+    "flightId": "EK297_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T10:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0111",
+    "statusId": "ST0111",
+    "flightId": "EK298_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T01:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0112",
+    "statusId": "ST0112",
+    "flightId": "QR300_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T06:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0113",
+    "statusId": "ST0113",
+    "flightId": "QR301_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T17:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0114",
+    "statusId": "ST0114",
+    "flightId": "QR303_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T09:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0115",
+    "statusId": "ST0115",
+    "flightId": "AI306_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T02:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0116",
+    "statusId": "ST0116",
+    "flightId": "EK309_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T18:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0117",
+    "statusId": "ST0117",
+    "flightId": "EK309_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T12:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0118",
+    "statusId": "ST0118",
+    "flightId": "EK312_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T23:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0119",
+    "statusId": "ST0119",
+    "flightId": "QR316_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T21:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0120",
+    "statusId": "ST0120",
+    "flightId": "QR319_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T11:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0121",
+    "statusId": "ST0121",
+    "flightId": "QR318_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T01:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0122",
+    "statusId": "ST0122",
+    "flightId": "QR318_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T04:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0123",
+    "statusId": "ST0123",
+    "flightId": "EY321_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T09:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0124",
+    "statusId": "ST0124",
+    "flightId": "EY322_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-10-31T21:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0125",
+    "statusId": "ST0125",
+    "flightId": "EY323_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T16:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0126",
+    "statusId": "ST0126",
+    "flightId": "EY322_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T22:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0127",
+    "statusId": "ST0127",
+    "flightId": "EK325_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T09:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0128",
+    "statusId": "ST0128",
+    "flightId": "EK324_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T22:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0129",
+    "statusId": "ST0129",
+    "flightId": "EK325_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T19:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0130",
+    "statusId": "ST0130",
+    "flightId": "EK326_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T02:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0131",
+    "statusId": "ST0131",
+    "flightId": "EK331_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T19:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0132",
+    "statusId": "ST0132",
+    "flightId": "EK331_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T10:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0133",
+    "statusId": "ST0133",
+    "flightId": "EK332_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T04:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0134",
+    "statusId": "ST0134",
+    "flightId": "EK333_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T09:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0135",
+    "statusId": "ST0135",
+    "flightId": "EK334_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T05:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0136",
+    "statusId": "ST0136",
+    "flightId": "EK335_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T10:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0137",
+    "statusId": "ST0137",
+    "flightId": "EK335_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-03T12:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0138",
+    "statusId": "ST0138",
+    "flightId": "EK339_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T18:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0139",
+    "statusId": "ST0139",
+    "flightId": "EK340_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-10-31T22:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0140",
+    "statusId": "ST0140",
+    "flightId": "EK343_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T10:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0141",
+    "statusId": "ST0141",
+    "flightId": "EK343_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T17:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0142",
+    "statusId": "ST0142",
+    "flightId": "EK344_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0143",
+    "statusId": "ST0143",
+    "flightId": "EK345_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T10:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0144",
+    "statusId": "ST0144",
+    "flightId": "EK347_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T17:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0145",
+    "statusId": "ST0145",
+    "flightId": "EK351_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T11:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0146",
+    "statusId": "ST0146",
+    "flightId": "EK352_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T21:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0147",
+    "statusId": "ST0147",
+    "flightId": "EK353_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T17:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0148",
+    "statusId": "ST0148",
+    "flightId": "EK354_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T00:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0149",
+    "statusId": "ST0149",
+    "flightId": "EK355_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T15:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0150",
+    "statusId": "ST0150",
+    "flightId": "EK355_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T14:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0151",
+    "statusId": "ST0151",
+    "flightId": "TK356_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T22:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0152",
+    "statusId": "ST0152",
+    "flightId": "TK356_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T00:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0153",
+    "statusId": "ST0153",
+    "flightId": "EK361_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T11:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0154",
+    "statusId": "ST0154",
+    "flightId": "EK364_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T22:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0155",
+    "statusId": "ST0155",
+    "flightId": "EK372_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T01:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0156",
+    "statusId": "ST0156",
+    "flightId": "EK373_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T11:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0157",
+    "statusId": "ST0157",
+    "flightId": "EK375_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T13:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0158",
+    "statusId": "ST0158",
+    "flightId": "QR377_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T14:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0159",
+    "statusId": "ST0159",
+    "flightId": "QR377_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T19:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0160",
+    "statusId": "ST0160",
+    "flightId": "QR380_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-10-31T23:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0161",
+    "statusId": "ST0161",
+    "flightId": "QR383_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T10:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0162",
+    "statusId": "ST0162",
+    "flightId": "QR386_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T00:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0163",
+    "statusId": "ST0163",
+    "flightId": "QR389_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T19:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0164",
+    "statusId": "ST0164",
+    "flightId": "QR397_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T13:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0165",
+    "statusId": "ST0165",
+    "flightId": "QR399_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T13:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0166",
+    "statusId": "ST0166",
+    "flightId": "QR400_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-10-31T22:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0167",
+    "statusId": "ST0167",
+    "flightId": "QR401_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T10:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0168",
+    "statusId": "ST0168",
+    "flightId": "QR403_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T15:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0169",
+    "statusId": "ST0169",
+    "flightId": "EY404_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T01:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0170",
+    "statusId": "ST0170",
+    "flightId": "EY405_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T18:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0171",
+    "statusId": "ST0171",
+    "flightId": "EY407_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T09:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0172",
+    "statusId": "ST0172",
+    "flightId": "EY407_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T16:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0173",
+    "statusId": "ST0173",
+    "flightId": "EY408_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T06:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0174",
+    "statusId": "ST0174",
+    "flightId": "EY408_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T23:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0175",
+    "statusId": "ST0175",
+    "flightId": "EY414_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T00:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0176",
+    "statusId": "ST0176",
+    "flightId": "SQ416_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T07:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0177",
+    "statusId": "ST0177",
+    "flightId": "SQ418_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T01:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0178",
+    "statusId": "ST0178",
+    "flightId": "SQ420_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T02:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0179",
+    "statusId": "ST0179",
+    "flightId": "SQ420_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T03:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0180",
+    "statusId": "ST0180",
+    "flightId": "SQ423_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T12:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0181",
+    "statusId": "ST0181",
+    "flightId": "CX424_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T03:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0182",
+    "statusId": "ST0182",
+    "flightId": "CX426_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0183",
+    "statusId": "ST0183",
+    "flightId": "CX427_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T17:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0184",
+    "statusId": "ST0184",
+    "flightId": "SQ428_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0185",
+    "statusId": "ST0185",
+    "flightId": "SQ429_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T18:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0186",
+    "statusId": "ST0186",
+    "flightId": "SQ429_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T18:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0187",
+    "statusId": "ST0187",
+    "flightId": "SQ431_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T16:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0188",
+    "statusId": "ST0188",
+    "flightId": "SQ432_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T01:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0189",
+    "statusId": "ST0189",
+    "flightId": "SQ433_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T19:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0190",
+    "statusId": "ST0190",
+    "flightId": "SQ435_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T11:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0191",
+    "statusId": "ST0191",
+    "flightId": "SQ434_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T04:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0192",
+    "statusId": "ST0192",
+    "flightId": "SQ436_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-10-31T23:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0193",
+    "statusId": "ST0193",
+    "flightId": "SQ438_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T04:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0194",
+    "statusId": "ST0194",
+    "flightId": "SQ439_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T12:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0195",
+    "statusId": "ST0195",
+    "flightId": "SQ439_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T12:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0196",
+    "statusId": "ST0196",
+    "flightId": "SQ440_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T01:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0197",
+    "statusId": "ST0197",
+    "flightId": "SQ450_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T04:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0198",
+    "statusId": "ST0198",
+    "flightId": "SQ452_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T07:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0199",
+    "statusId": "ST0199",
+    "flightId": "SQ455_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T15:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0200",
+    "statusId": "ST0200",
+    "flightId": "CX456_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T01:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0201",
+    "statusId": "ST0201",
+    "flightId": "CX456_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T04:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0202",
+    "statusId": "ST0202",
+    "flightId": "CX456_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T23:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0203",
+    "statusId": "ST0203",
+    "flightId": "CX460_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T04:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0204",
+    "statusId": "ST0204",
+    "flightId": "CX461_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T09:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0205",
+    "statusId": "ST0205",
+    "flightId": "CX463_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T16:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0206",
+    "statusId": "ST0206",
+    "flightId": "CX464_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0207",
+    "statusId": "ST0207",
+    "flightId": "CX467_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T17:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0208",
+    "statusId": "ST0208",
+    "flightId": "CX469_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T14:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0209",
+    "statusId": "ST0209",
+    "flightId": "CX470_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T01:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0210",
+    "statusId": "ST0210",
+    "flightId": "CX473_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T12:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0211",
+    "statusId": "ST0211",
+    "flightId": "CX472_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T01:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0212",
+    "statusId": "ST0212",
+    "flightId": "CX473_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T14:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0213",
+    "statusId": "ST0213",
+    "flightId": "JL480_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-10-31T22:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0214",
+    "statusId": "ST0214",
+    "flightId": "JL480_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T22:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0215",
+    "statusId": "ST0215",
+    "flightId": "JL481_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T14:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0216",
+    "statusId": "ST0216",
+    "flightId": "JL483_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T14:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0217",
+    "statusId": "ST0217",
+    "flightId": "JL483_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T12:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0218",
+    "statusId": "ST0218",
+    "flightId": "JL485_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T17:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0219",
+    "statusId": "ST0219",
+    "flightId": "JL484_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T06:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0220",
+    "statusId": "ST0220",
+    "flightId": "JL487_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T16:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0221",
+    "statusId": "ST0221",
+    "flightId": "JL488_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-10-31T22:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0222",
+    "statusId": "ST0222",
+    "flightId": "JL488_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T07:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0223",
+    "statusId": "ST0223",
+    "flightId": "JL491_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T18:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0224",
+    "statusId": "ST0224",
+    "flightId": "JL495_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T09:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0225",
+    "statusId": "ST0225",
+    "flightId": "DL499_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T15:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0226",
+    "statusId": "ST0226",
+    "flightId": "UA501_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T18:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0227",
+    "statusId": "ST0227",
+    "flightId": "UA504_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T05:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0228",
+    "statusId": "ST0228",
+    "flightId": "UA505_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T15:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0229",
+    "statusId": "ST0229",
+    "flightId": "UA508_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-10-31T23:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0230",
+    "statusId": "ST0230",
+    "flightId": "UA510_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T23:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0231",
+    "statusId": "ST0231",
+    "flightId": "UA511_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T11:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0232",
+    "statusId": "ST0232",
+    "flightId": "JL512_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0233",
+    "statusId": "ST0233",
+    "flightId": "JL515_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T09:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0234",
+    "statusId": "ST0234",
+    "flightId": "JL514_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T03:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0235",
+    "statusId": "ST0235",
+    "flightId": "JL516_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T00:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0236",
+    "statusId": "ST0236",
+    "flightId": "JL518_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T00:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0237",
+    "statusId": "ST0237",
+    "flightId": "JL519_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T17:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0238",
+    "statusId": "ST0238",
+    "flightId": "JL518_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0239",
+    "statusId": "ST0239",
+    "flightId": "UA525_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T16:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0240",
+    "statusId": "ST0240",
+    "flightId": "UA524_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T06:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0241",
+    "statusId": "ST0241",
+    "flightId": "UA525_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-03T09:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0242",
+    "statusId": "ST0242",
+    "flightId": "UA526_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T06:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0243",
+    "statusId": "ST0243",
+    "flightId": "UA527_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T15:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0244",
+    "statusId": "ST0244",
+    "flightId": "CX529_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T09:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0245",
+    "statusId": "ST0245",
+    "flightId": "CX531_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T17:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0246",
+    "statusId": "ST0246",
+    "flightId": "CX533_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T18:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0247",
+    "statusId": "ST0247",
+    "flightId": "QF537_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T11:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0248",
+    "statusId": "ST0248",
+    "flightId": "QF537_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T13:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0249",
+    "statusId": "ST0249",
+    "flightId": "SQ540_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T23:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0250",
+    "statusId": "ST0250",
+    "flightId": "SQ546_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-03T06:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0251",
+    "statusId": "ST0251",
+    "flightId": "QF548_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T23:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0252",
+    "statusId": "ST0252",
+    "flightId": "QF550_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0253",
+    "statusId": "ST0253",
+    "flightId": "QF551_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T11:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0254",
+    "statusId": "ST0254",
+    "flightId": "QF550_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T05:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0255",
+    "statusId": "ST0255",
+    "flightId": "QF553_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T14:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0256",
+    "statusId": "ST0256",
+    "flightId": "QF553_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T13:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0257",
+    "statusId": "ST0257",
+    "flightId": "QF552_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-03T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0258",
+    "statusId": "ST0258",
+    "flightId": "QF553_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T18:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0259",
+    "statusId": "ST0259",
+    "flightId": "QF554_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T21:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0260",
+    "statusId": "ST0260",
+    "flightId": "BA557_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T11:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0261",
+    "statusId": "ST0261",
+    "flightId": "BA559_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T10:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0262",
+    "statusId": "ST0262",
+    "flightId": "BA562_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T05:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0263",
+    "statusId": "ST0263",
+    "flightId": "BA564_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T22:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0264",
+    "statusId": "ST0264",
+    "flightId": "BA566_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T05:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0265",
+    "statusId": "ST0265",
+    "flightId": "BA568_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-10-31T23:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0266",
+    "statusId": "ST0266",
+    "flightId": "BA571_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T14:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0267",
+    "statusId": "ST0267",
+    "flightId": "TK572_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0268",
+    "statusId": "ST0268",
+    "flightId": "TK572_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T21:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0269",
+    "statusId": "ST0269",
+    "flightId": "TK574_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0270",
+    "statusId": "ST0270",
+    "flightId": "TK575_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T18:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0271",
+    "statusId": "ST0271",
+    "flightId": "BA577_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0272",
+    "statusId": "ST0272",
+    "flightId": "BA580_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T23:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0273",
+    "statusId": "ST0273",
+    "flightId": "BA581_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T12:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0274",
+    "statusId": "ST0274",
+    "flightId": "BA581_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T18:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0275",
+    "statusId": "ST0275",
+    "flightId": "BA583_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T11:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0276",
+    "statusId": "ST0276",
+    "flightId": "BA585_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T14:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0277",
+    "statusId": "ST0277",
+    "flightId": "BA587_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T13:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0278",
+    "statusId": "ST0278",
+    "flightId": "BA586_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0279",
+    "statusId": "ST0279",
+    "flightId": "BA586_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T22:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0280",
+    "statusId": "ST0280",
+    "flightId": "BA589_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T11:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0281",
+    "statusId": "ST0281",
+    "flightId": "BA591_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T18:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0282",
+    "statusId": "ST0282",
+    "flightId": "AA593_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T17:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0283",
+    "statusId": "ST0283",
+    "flightId": "AA594_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T01:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0284",
+    "statusId": "ST0284",
+    "flightId": "AA594_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T04:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0285",
+    "statusId": "ST0285",
+    "flightId": "BA598_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0286",
+    "statusId": "ST0286",
+    "flightId": "BA599_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T13:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0287",
+    "statusId": "ST0287",
+    "flightId": "BA598_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T05:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0288",
+    "statusId": "ST0288",
+    "flightId": "BA600_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-10-31T23:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0289",
+    "statusId": "ST0289",
+    "flightId": "BA601_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T16:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0290",
+    "statusId": "ST0290",
+    "flightId": "BA600_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T05:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0291",
+    "statusId": "ST0291",
+    "flightId": "BA603_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T14:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0292",
+    "statusId": "ST0292",
+    "flightId": "BA602_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T07:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0293",
+    "statusId": "ST0293",
+    "flightId": "LH605_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T14:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0294",
+    "statusId": "ST0294",
+    "flightId": "LH606_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T22:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0295",
+    "statusId": "ST0295",
+    "flightId": "LH609_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T15:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0296",
+    "statusId": "ST0296",
+    "flightId": "LH610_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T06:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0297",
+    "statusId": "ST0297",
+    "flightId": "LH610_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T04:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0298",
+    "statusId": "ST0298",
+    "flightId": "LH614_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T01:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0299",
+    "statusId": "ST0299",
+    "flightId": "LH617_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T15:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0300",
+    "statusId": "ST0300",
+    "flightId": "LH619_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T17:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0301",
+    "statusId": "ST0301",
+    "flightId": "LH620_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T05:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0302",
+    "statusId": "ST0302",
+    "flightId": "LH623_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T18:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0303",
+    "statusId": "ST0303",
+    "flightId": "AF624_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-10-31T23:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0304",
+    "statusId": "ST0304",
+    "flightId": "AF624_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T07:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0305",
+    "statusId": "ST0305",
+    "flightId": "AF626_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T22:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0306",
+    "statusId": "ST0306",
+    "flightId": "AF626_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T22:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0307",
+    "statusId": "ST0307",
+    "flightId": "AF627_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T09:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0308",
+    "statusId": "ST0308",
+    "flightId": "AF629_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T11:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0309",
+    "statusId": "ST0309",
+    "flightId": "AF630_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T05:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0310",
+    "statusId": "ST0310",
+    "flightId": "AF633_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T15:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0311",
+    "statusId": "ST0311",
+    "flightId": "AF637_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T14:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0312",
+    "statusId": "ST0312",
+    "flightId": "AF638_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-10-31T22:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0313",
+    "statusId": "ST0313",
+    "flightId": "AF641_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T15:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0314",
+    "statusId": "ST0314",
+    "flightId": "AF641_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T15:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0315",
+    "statusId": "ST0315",
+    "flightId": "AF642_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T07:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0316",
+    "statusId": "ST0316",
+    "flightId": "TK647_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T17:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0317",
+    "statusId": "ST0317",
+    "flightId": "TK646_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T23:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0318",
+    "statusId": "ST0318",
+    "flightId": "TK649_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T16:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0319",
+    "statusId": "ST0319",
+    "flightId": "TK653_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T19:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0320",
+    "statusId": "ST0320",
+    "flightId": "TK652_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T01:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0321",
+    "statusId": "ST0321",
+    "flightId": "TK654_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T07:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0322",
+    "statusId": "ST0322",
+    "flightId": "TK656_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0323",
+    "statusId": "ST0323",
+    "flightId": "TK656_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T22:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0324",
+    "statusId": "ST0324",
+    "flightId": "TK661_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T10:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0325",
+    "statusId": "ST0325",
+    "flightId": "BA664_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T05:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0326",
+    "statusId": "ST0326",
+    "flightId": "BA665_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T15:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0327",
+    "statusId": "ST0327",
+    "flightId": "BA667_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T13:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0328",
+    "statusId": "ST0328",
+    "flightId": "BA674_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T04:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0329",
+    "statusId": "ST0329",
+    "flightId": "BA674_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T04:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0330",
+    "statusId": "ST0330",
+    "flightId": "BA683_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T12:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0331",
+    "statusId": "ST0331",
+    "flightId": "BA682_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T22:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0332",
+    "statusId": "ST0332",
+    "flightId": "BA683_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T17:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0333",
+    "statusId": "ST0333",
+    "flightId": "AF687_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T15:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0334",
+    "statusId": "ST0334",
+    "flightId": "LH689_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T19:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0335",
+    "statusId": "ST0335",
+    "flightId": "LH691_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T17:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0336",
+    "statusId": "ST0336",
+    "flightId": "LH691_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T18:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0337",
+    "statusId": "ST0337",
+    "flightId": "AA692_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-10-31T22:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0338",
+    "statusId": "ST0338",
+    "flightId": "AA692_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T02:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0339",
+    "statusId": "ST0339",
+    "flightId": "AA695_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 35,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T12:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0340",
+    "statusId": "ST0340",
+    "flightId": "AA695_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T13:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0341",
+    "statusId": "ST0341",
+    "flightId": "AA697_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T12:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0342",
+    "statusId": "ST0342",
+    "flightId": "DL700_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0343",
+    "statusId": "ST0343",
+    "flightId": "DL701_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T11:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0344",
+    "statusId": "ST0344",
+    "flightId": "DL700_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T01:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0345",
+    "statusId": "ST0345",
+    "flightId": "DL703_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T16:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0346",
+    "statusId": "ST0346",
+    "flightId": "DL702_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T00:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0347",
+    "statusId": "ST0347",
+    "flightId": "AA705_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T09:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0348",
+    "statusId": "ST0348",
+    "flightId": "AA710_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-10-31T22:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0349",
+    "statusId": "ST0349",
+    "flightId": "AA711_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T10:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0350",
+    "statusId": "ST0350",
+    "flightId": "AA710_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T23:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0351",
+    "statusId": "ST0351",
+    "flightId": "UA715_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T15:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0352",
+    "statusId": "ST0352",
+    "flightId": "UA714_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T00:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0353",
+    "statusId": "ST0353",
+    "flightId": "UA716_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T02:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0354",
+    "statusId": "ST0354",
+    "flightId": "UA717_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T13:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0355",
+    "statusId": "ST0355",
+    "flightId": "UA719_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T15:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0356",
+    "statusId": "ST0356",
+    "flightId": "DL721_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T16:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0357",
+    "statusId": "ST0357",
+    "flightId": "DL720_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T01:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0358",
+    "statusId": "ST0358",
+    "flightId": "AA724_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T07:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0359",
+    "statusId": "ST0359",
+    "flightId": "AA727_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T10:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0360",
+    "statusId": "ST0360",
+    "flightId": "AA726_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T21:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0361",
+    "statusId": "ST0361",
+    "flightId": "AA726_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-03T06:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0362",
+    "statusId": "ST0362",
+    "flightId": "UA731_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T15:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0363",
+    "statusId": "ST0363",
+    "flightId": "AA735_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T16:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0364",
+    "statusId": "ST0364",
+    "flightId": "AA736_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T00:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0365",
+    "statusId": "ST0365",
+    "flightId": "AA738_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T00:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0366",
+    "statusId": "ST0366",
+    "flightId": "DL740_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-03T05:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0367",
+    "statusId": "ST0367",
+    "flightId": "DL741_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-03T15:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0368",
+    "statusId": "ST0368",
+    "flightId": "UA746_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-02T04:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0369",
+    "statusId": "ST0369",
+    "flightId": "DL748_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T02:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0370",
+    "statusId": "ST0370",
+    "flightId": "DL749_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-01T12:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0371",
+    "statusId": "ST0371",
+    "flightId": "DL750_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T22:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0372",
+    "statusId": "ST0372",
+    "flightId": "DL751_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T18:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0373",
+    "statusId": "ST0373",
+    "flightId": "DL753_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-02T09:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0374",
+    "statusId": "ST0374",
+    "flightId": "DL753_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T14:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0375",
+    "statusId": "ST0375",
+    "flightId": "AA758_2026-11-01",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-10-31T23:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0376",
+    "statusId": "ST0376",
+    "flightId": "AA761_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-01T14:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0377",
+    "statusId": "ST0377",
+    "flightId": "AA760_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T00:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0378",
+    "statusId": "ST0378",
+    "flightId": "AA760_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 45,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T04:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0379",
+    "statusId": "ST0379",
+    "flightId": "AA761_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 60,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T11:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0380",
+    "statusId": "ST0380",
+    "flightId": "AA763_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T10:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0381",
+    "statusId": "ST0381",
+    "flightId": "UA768_2026-11-03",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-02T22:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0382",
+    "statusId": "ST0382",
+    "flightId": "UA770_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 90,
+    "reason": "WEATHER",
+    "updatedAt": {
+      "$date": "2026-11-01T04:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0383",
+    "statusId": "ST0383",
+    "flightId": "UA772_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T06:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0384",
+    "statusId": "ST0384",
+    "flightId": "UA774_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T00:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0385",
+    "statusId": "ST0385",
+    "flightId": "AA778_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T07:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0386",
+    "statusId": "ST0386",
+    "flightId": "AA778_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T22:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0387",
+    "statusId": "ST0387",
+    "flightId": "AA780_2026-11-01",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-10-31T21:15:00Z"
+    }
+  },
+  {
+    "_id": "ST0388",
+    "statusId": "ST0388",
+    "flightId": "AA780_2026-11-02",
+    "status": "DELAYED",
+    "delayMin": 20,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-01T22:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0389",
+    "statusId": "ST0389",
+    "flightId": "AA781_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T15:00:00Z"
+    }
+  },
+  {
+    "_id": "ST0390",
+    "statusId": "ST0390",
+    "flightId": "QR785_2026-11-01",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "ATC",
+    "updatedAt": {
+      "$date": "2026-11-01T14:45:00Z"
+    }
+  },
+  {
+    "_id": "ST0391",
+    "statusId": "ST0391",
+    "flightId": "QR787_2026-11-02",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-02T17:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0392",
+    "statusId": "ST0392",
+    "flightId": "TK788_2026-11-02",
+    "status": "CANCELLED",
+    "delayMin": 0,
+    "reason": "CREW",
+    "updatedAt": {
+      "$date": "2026-11-02T04:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0393",
+    "statusId": "ST0393",
+    "flightId": "TK788_2026-11-03",
+    "status": "ON_TIME",
+    "delayMin": 0,
+    "reason": "NONE",
+    "updatedAt": {
+      "$date": "2026-11-03T03:30:00Z"
+    }
+  },
+  {
+    "_id": "ST0394",
+    "statusId": "ST0394",
+    "flightId": "TK790_2026-11-03",
+    "status": "DELAYED",
+    "delayMin": 120,
+    "reason": "TECHNICAL",
+    "updatedAt": {
+      "$date": "2026-11-03T04:00:00Z"
+    }
+  }
+]
